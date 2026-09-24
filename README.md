@@ -72,7 +72,7 @@ Important variables include:
 ### Local Dataset Files
 
 ```text
-sales_transactions_2022_2025.csv
+Sales_transactions_2022_2025.csv
 sales_data_dictionary.csv
 ```
 
@@ -313,7 +313,7 @@ IBM_Retail_Sales_Demand_Analysis/
 The GitHub repository may additionally contain:
 
 ```text
-├── sales_transactions_2022_2025.csv
+├── Sales_transactions_2022_2025.csv
 └── sales_data_dictionary.csv
 ```
 
@@ -342,7 +342,7 @@ Possible future improvements include:
 
 ## 19. Conclusion
 
-This project analyzed **18,045 sales transactions from 2022–2025** using data analytics and machine learning techniques.
+This project analyzed **18,045 Sales transactions from 2022–2025** using data analytics and machine learning techniques.
 
 The dataset was cleaned and explored to identify sales patterns, customer behavior, product performance, sales channels, returns, and relationships between important variables. Feature engineering was then used to prepare the data for machine learning.
 
